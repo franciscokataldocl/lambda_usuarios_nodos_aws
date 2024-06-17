@@ -1,0 +1,19 @@
+{
+  "name": "ejlambdaroles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1085.0",
+    "dotenv": "^16.0.0",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^3.3.2",
+    "oracledb": "^5.3.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
